@@ -1,6 +1,6 @@
 # Deploy (electrode) app with iisnode
 
-https://github.com/electrode-io/electrode/issues/752
+Related issues: [electrode#752](https://github.com/electrode-io/electrode/issues/752)
 
 I was able to deploy the sample app with the following configuration:
 
