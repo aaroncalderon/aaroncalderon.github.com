@@ -1,9 +1,9 @@
-# aaroncalderon.github.com
+# aaroncalderon.github.io
 
-Visit aaroncalderon.github.com to see this site
+Visit aaroncalderon.github.io to see this site
 
 ## Clone
 
 ```cmd
-git clone https://github.com/aaroncalderon/aaroncalderon.github.com.git
+git clone https://github.com/aaroncalderon/aaroncalderon.github.io.git
 ```
